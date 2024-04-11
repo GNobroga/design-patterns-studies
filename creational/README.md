@@ -13,3 +13,15 @@ Garantir que uma classe só tenha uma única instância, e prover um ponto de ac
 # Monostate
 
 A ideia é ter um estado compartilhado entre várias instâncias de uma classe.
+
+# Builder
+
+Construção de objetos parcialmente
+
+# Prototype
+
+Padrão Prototype é um padrão de criação que permite criar novos objetos duplicando um objeto existente e assim evoluir o seu estado.
+
+- Deep Copy - Clona todos os campos primitivos e de referência
+
+- Shallow Copy - Clona clona apenas os campos primitivos do objeto raiz
